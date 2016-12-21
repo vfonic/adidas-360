@@ -11,6 +11,7 @@ $(function() {
 			// the frame placeholder will be padded with leading '0' up to the number of 'digits'
 			digits: 1
 		}),
+		frameTime: 120,
 		// Specify the display width and height of the frame.
 		// Optionally the size of the container can be defined with CSS.
 		width: width,
